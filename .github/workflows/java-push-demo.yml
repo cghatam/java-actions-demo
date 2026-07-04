@@ -1,6 +1,6 @@
 name: Java Push Demo
 
-On:
+on:
   push:
     branches:
       - main
